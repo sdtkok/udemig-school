@@ -12,4 +12,4 @@ HTML CSS HTML5 ve CSS3 kullanılmıştır.
 
 <h3> Ekran Görüntüsü </h3>
 
-![](udemig school.gif)
+![](udemig-school.gif)
